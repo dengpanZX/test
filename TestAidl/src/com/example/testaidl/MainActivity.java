@@ -26,6 +26,7 @@ public class MainActivity extends Activity implements ServiceConnection{
 		Intent service = new Intent(this, TestService.class);
 		startService(service);
 		bindService(service, this, Context.BIND_AUTO_CREATE);
+		/*yulihznyulihznyulihznyulihznyulihznyulihznyulihznyulihzn*/
 	}
 	
 	@Override
