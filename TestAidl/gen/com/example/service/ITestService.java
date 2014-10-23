@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: F:\\workspace\\TestAidl\\src\\com\\example\\service\\ITestService.aidl
+ * Original file: C:\\Users\\Administrator\\git\\test\\TestAidl\\src\\com\\example\\service\\ITestService.aidl
  */
 package com.example.service;
 public interface ITestService extends android.os.IInterface

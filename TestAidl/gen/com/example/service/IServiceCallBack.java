@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: F:\\workspace\\TestAidl\\src\\com\\example\\service\\IServiceCallBack.aidl
+ * Original file: C:\\Users\\Administrator\\git\\test\\TestAidl\\src\\com\\example\\service\\IServiceCallBack.aidl
  */
 package com.example.service;
 public interface IServiceCallBack extends android.os.IInterface
