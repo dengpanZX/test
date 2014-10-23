@@ -27,7 +27,7 @@ public class MainActivity extends Activity implements ServiceConnection{
 		startService(service);
 		bindService(service, this, Context.BIND_AUTO_CREATE);
 		/*yulihznyulihznyulihznyulihznyulihznyulihznyulihznyulihzn*/
-		Log.d("yuli", "yulihzn  ");
+		Log.d("yuli", "yulihzn  test");
 	}
 	
 	@Override
