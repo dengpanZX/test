@@ -9,7 +9,7 @@ import android.util.Log;
 
 public class TestService extends Service{
 
-	private IServiceCallBack mListener;
+	private IServiceCallBack mListener = null;
 	private final ServiceStub mBinder = new ServiceStub();
 	@Override
 	public IBinder onBind(Intent arg0) {
